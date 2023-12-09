@@ -4,7 +4,6 @@
 
 
 ## ✍️ Quote
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9f1a03e0-73a1-4d9e-8d37-4008ad013be1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <picture>
 <source 
   srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
