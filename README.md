@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SagarSatav
-- 👀 I’m interested in becoming a full stack developer
+- 👀 I’m an UI developer
 - 📫 How to reach me satavsagar17@gmail.com and https://www.linkedin.com/in/sagar-satav-0a4211112/
 
 
